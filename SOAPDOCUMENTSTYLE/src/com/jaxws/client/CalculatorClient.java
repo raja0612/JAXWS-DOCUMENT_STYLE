@@ -8,7 +8,8 @@ import javax.xml.ws.Service;
 
 import com.jaxws.soap.BasicCalculator;
 
-/** JAX-WS client for BasicCalculator.
+/** 
+ * JAX-WS client for BasicCalculator.
  * @author RAJASHEKHAR
  *
  */

@@ -4,7 +4,8 @@ import javax.xml.ws.Endpoint;
 
 import com.jaxws.soap.BasicCaluculatorImpl;
 
-/** Endpoint publisher for Basic Calculator.
+/** 
+ * Endpoint publisher for Basic Calculator.
  * @author RAJASHEKHAR
  *
  */

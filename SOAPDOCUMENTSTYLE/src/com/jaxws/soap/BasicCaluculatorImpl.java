@@ -2,7 +2,8 @@ package com.jaxws.soap;
 
 import javax.jws.WebService;
 
-/**Service Implementation defined in DOCUMENT style.
+/**
+ * Service Implementation defined in DOCUMENT style.
  * @author RAJASHEKHAR
  *
  */
